@@ -1,0 +1,325 @@
+{
+   "LEFT": {
+      "QUERY": [
+         "left"
+      ],
+      "ANS": [
+         "turning!"
+      ]
+   },
+   "RIGHT": {
+      "QUERY": [
+         "right"
+      ],
+      "ANS": [
+         "turning!"
+      ]
+   },
+   "FWD": {
+      "QUERY": [
+         "go forward",
+         "forward",
+         "4ward",
+         "fulwood",
+         "photo of"
+      ],
+      "ANS": [
+         "on my way!"
+      ]
+   },
+   "BACK": {
+      "QUERY": [
+         "go back",
+         "back"
+      ],
+      "ANS": [
+         "on my way!"
+      ]
+   },
+   "2xFWD": {
+      "QUERY": [
+         "go double forward",
+         "double forward"
+      ],
+      "ANS": [
+         "on my way!"
+      ]
+   },
+   "2xBACK": {
+      "QUERY": [
+         "go double back",
+         "double back"
+      ],
+      "ANS": [
+         "on my way!"
+      ]
+   },
+   "HLEFT": {
+      "QUERY": [
+         "slow left"
+      ],
+      "ANS": [
+         "turning!"
+      ]
+   },
+   "HRIGHT": {
+      "QUERY": [
+         "slow right"
+      ],
+      "ANS": [
+         "turning!"
+      ]
+   },
+   "2xLEFT": {
+      "QUERY": [
+         "double left"
+      ],
+      "ANS": [
+         "turning!"
+      ]
+   },
+   "2xRIGHT": {
+      "QUERY": [
+         "double right"
+      ],
+      "ANS": [
+         "turning!"
+      ]
+   },
+   "HFWD": {
+      "QUERY": [
+         "go forward slow",
+         "slow forward"
+      ],
+      "ANS": [
+         "on my way!"
+      ]
+   },
+   "HBACK": {
+      "QUERY": [
+         "go back slow",
+         "slow back"
+      ],
+      "ANS": [
+         "on my way!"
+      ]
+   },
+   "GET_CLOSE": {
+      "QUERY": [
+         "get close"
+      ],
+      "ANS": [
+         "ok!"
+      ]
+   },
+   "GET_AWAY": {
+      "QUERY": [
+         "get away"
+      ],
+      "ANS": [
+         "no problem!"
+      ]
+   },
+   "QUIT": {
+      "QUERY": [
+         "quit"
+      ],
+      "ANS": [
+         "see you soon!"
+      ]
+   },
+   "AUTO": {
+      "QUERY": [
+         "auto",
+         "auto mode",
+         "follow me"
+      ],
+      "ANS": [
+         "auto mode activated!"
+      ]
+   },
+   "USER": {
+      "QUERY": [
+         "user",
+         "user mode",
+         "stop"
+      ],
+      "ANS": [
+         "you have the control!"
+      ]
+   },
+   "LOOK_LEFT": {
+      "QUERY": [
+         "look left"
+      ],
+      "ANS": [
+         "ok!"
+      ]
+   },
+   "LOOK_RIGHT": {
+      "QUERY": [
+         "look right"
+      ],
+      "ANS": [
+         "ok!"
+      ]
+   },
+   "LOOK_DOWN": {
+      "QUERY": [
+         "look down"
+      ],
+      "ANS": [
+         "ok!"
+      ]
+   },
+   "LOOK_FRONT": {
+      "QUERY": [
+         "look front",
+         "look forward"
+      ],
+      "ANS": [
+         "ok!"
+      ]
+   },
+   "LOOK_UP": {
+      "QUERY": [
+         "look up"
+      ],
+      "ANS": [
+         "ok!"
+      ]
+   },
+   "HELLO": {
+      "QUERY": [
+         "hello boy",
+         "hello"
+      ],
+      "ANS": [
+         "hi human!"
+      ]
+   },
+   "BYE": {
+      "QUERY": [
+         "goodbye",
+         "bye"
+      ],
+      "ANS": [
+         "see you soon!"
+      ]
+   },
+   "TRACK_ME": {
+      "QUERY": [
+         "track me",
+         "track human",
+         "trek human"
+      ],
+      "ANS": [
+         "tracking human!"
+      ]
+   },
+   "TRACK_BALL": {
+      "QUERY": [
+         "trackball",
+         "track ball",
+         "truck ball",
+         "track red ball",
+         "track red bull",
+         "truck red bull"
+      ],
+      "ANS": [
+         "tracking ball!"
+      ]
+   },
+   "GRAB_BALL": {
+      "QUERY": [
+         "grab position",
+         "grab"
+      ],
+      "ANS": [
+         "grabbing!"
+      ]
+   },
+   "GET_BALL": {
+      "QUERY": [
+         "get red ball",
+         "get ball",
+         "get red bull",
+         "get bowl",
+         "get mall",
+         "get bull"
+      ],
+      "ANS": [
+         "on my way!"
+      ]
+   },
+   "FIND_BALL": {
+      "QUERY": [
+         "find ball",
+         "search ball",
+         "search bald",
+         "search bowl",
+         "search bold"
+      ],
+      "ANS": [
+         "looking for the ball!"
+      ]
+   },
+   "RELAX": {
+      "QUERY": [
+         "relax position",
+         "relax"
+      ],
+      "ANS": [
+         "Fantastic!"
+      ]
+   },
+   "CLOSE_HAND": {
+      "QUERY": [
+         "close hand",
+         "close"
+      ],
+      "ANS": [
+         "closing hand!"
+      ]
+   },
+   "LEAVE": {
+      "QUERY": [
+         "leave",
+         "live"
+      ],
+      "ANS": [
+         "leaving!"
+      ]
+   },
+   "LAUNCH_BALL": {
+      "QUERY": [
+         "launch",
+         "launch the ball",
+         "launch ball"
+      ],
+      "ANS": [
+         "get the ball!"
+      ]
+   },
+   "PLAY_SAMBA": {
+      "QUERY": [
+         "let's dance",
+         "samba time",
+         "samba please"
+      ],
+      "ANS": [
+         "samba time"
+      ]
+   },
+   "STOP_SAMBA": {
+      "QUERY": [
+         "stop music",
+         "stop samba",
+         "stop samba please",
+         "stop music please"
+      ],
+      "ANS": [
+         "ok, it was funny!"
+      ]
+   }
+}
